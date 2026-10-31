@@ -63,7 +63,7 @@ streamlit run analysis.py --client.showErrorDetails=true --logger.level=debug
 
 ## Data Source
 
-The application reads from: `D:\projects and files\CFL\CFL_External Data Pack_Phase1.xlsx`
+The application reads from: `CFL_External Data Pack_Phase1.xlsx`
 
 ## Troubleshooting
 
